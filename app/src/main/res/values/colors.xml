@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_main">#318CE7</color>
+    <color name="color_blue">#4FABFF</color>
+
+    <color name="gray_600">#757575</color>
+    <color name="gray_400">#BDBDBD</color>
+    <color name="gray_300">#E0E0E0</color>
+    <color name="black_a50">#89000000</color>
+    <color name="black_a20">#33000000</color>
+    <color name="black_40">#65000000</color>
+    <color name="layer_list_background">#D8000000</color>
+    <color name="red_A400">#FF3D00</color>
+    <color name="orange50_700">#F57C00</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="green_a400">#76FF03</color>
+    <color name="green_a700">#64DD17</color>
+    <color name="purchase_pro_text_color">#444A71</color>
+    <color name="blue_500">#2A9AFE</color>
+    <color name="gray_700">#454545</color>
+    <color name="color_cyan">#1FAFC6</color>
+
+    <color name="title_color_black">#1B1938</color>
+    <color name="black_1">#25293E</color>
+    <color name="grey_1">#8184A1</color>
+    <color name="grey_4">#F6F7FA</color>
+
+    <!-- color purchase screen -->
+    <color name="color_purchase_1">#51578D</color>
+    <color name="color_purchase_2">#8184A1</color>
+    <color name="color_purchase_3">#F6F7FA</color>
+    <color name="color_btn_purchase">#0075FF</color>
+
+    <!-- color auto design screen -->
+    <color name="color_grey_2">#BFA9ADC0</color>
+    <color name="color_grey_3">#D0D2E2</color>
+    <color name="color_grey_4">#F8F8FA</color>
+    <color name="color_tab">#1AEA4C89</color>
+    <color name="color_text_logo">#2360D6</color>
+    <color name="color_btn_main">#EA4C89</color>
+    <color name="color_bg_grid">#991B1938</color>
+    <color name="color_bg_sub_tab">#EEEEF2</color>
+    <color name="color_track_seekbar">#D3D3D3</color>
+    <color name="color_bg_effect">#33A9ADC0</color>
+
+    <!-- color template screen -->
+    <color name="color_name_template">#8184A1</color>
+    <color name="color_text_see_all">#EA4C89</color>
+    <color name="color_bg_see_all">#1AEA4C89</color>
+
+    <!-- color my design screen -->
+    <color name="color_tab_text_selected">#EA4C89</color>
+    <color name="color_tab_text_un_select">#A9ADC0</color>
+    <color name="color_text_empty">#E3E5EB</color>
+    <color name="color_bg_tab_select">#1AEA4C89</color>
+    <color name="color_bg_tab_un_select">#F8F8FA</color>
+
+    <!--    color details logo screen-->
+    <color name="color_text_details">#1B1938</color>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <external-files-path
+        name="MedicinePlants"
+        path="/" />
+
+    <external-path
+        name="MedicinePlants"
+        path="/" />
+
+    <root
+        name="MedicinePlants"
+        path="/" />
+
+</paths>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Medicine-detect</string>
+    <string name="name">Name:</string>
+    <string name="dinh_lang">Dinh lang</string>
+    <string name="sub_name">Sub name:</string>
+    <string name="science_name">Science name:</string>
+    <string name="plant_family">Plant family:</string>
+    <string name="plant_function">Plant function:</string>
+    <string name="dosage_and_usage">Dosage and usage:</string>
+    <string name="details_medicine">Details medicine plant</string>
+    <string name="home">Home</string>
+    <string name="detection_offline">Detection Offline</string>
+    <string name="live_detect">Live Detect</string>
+    <string name="message_dialog_request_permission">Allow <b><i>Medicine Plants</i></b> to access to your device\'s storage</string>
+    <string name="necessary_permission">Storage Permissions</string>
+    <string name="allow">Allow</string>
+    <string name="no_thanks">No, Thanks</string>
+    <string name="to_setting">To setting</string>
+    <string name="without_the_permission_to_access_photos_the_app_can_not_work_properly">Without the permission to access your device\'s storage the app can not work properly</string>
+    <string name="result_here">Result here</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+</resources>
